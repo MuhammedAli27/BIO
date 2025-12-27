@@ -1,4 +1,4 @@
-![Miles Morales Marvel GIF by Sony Pictures Animation](https://github.com/user-attachments/assets/f772f23b-f812-4350-84ac-17788d124f6d)
+![Spider-Man GIF by Spider-Man Into The Spider-Verse](https://github.com/user-attachments/assets/e8f90fef-e908-4087-b570-ecd91c960f78)
 # 👋 Привет! Я Мухаммед Рустамов
 
 **Java-разработчик | Начинающий веб-разработчик | Любитель логики и баскетбола**
