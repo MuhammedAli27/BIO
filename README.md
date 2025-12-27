@@ -1,4 +1,4 @@
-<img width="480" height="432" alt="image" src="https://github.com/user-attachments/assets/f89c05cd-5b51-40f9-8a03-a00dc28c7888" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/8680ffc6-61ff-4479-903d-33a907bd3827" />
 
 
 # 👋 Привет! Я Мухаммед Рустамов
