@@ -1,6 +1,6 @@
 ![Spider-Man GIF by Spider-Man Into The Spider-Verse](https://github.com/user-attachments/assets/e8f90fef-e908-4087-b570-ecd91c960f78)
 # 👋 Hi there! I'm Muhammed Rustamov
-** Java Developer | Aspiring Web Developer | Logic Enthusiast & Basketball Lover
+Java Developer | Aspiring Web Developer | Logic Enthusiast & Basketball Lover
 
 ## 🚀 About Me
 I’m a passionate beginner Java developer deeply interested in programming fundamentals, algorithms, and crafting logically sound solutions.
