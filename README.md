@@ -31,7 +31,7 @@ Principles of RESTful API design
 
  ---
 
-🤝 Open to Collaboration
+## 🤝 Open to Collaboration
 I’m eager to contribute to open-source projects or join small backend development initiatives to gain hands-on experience and grow as a developer.
 If you need a motivated teammate—let’s build something great together!
 
